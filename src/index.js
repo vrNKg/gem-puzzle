@@ -1,5 +1,7 @@
 import '../src/style/style.css'
 
+// import FavIcon from '/assets/icons/favicon-rubiks-cube.png'
+
 let container = document.createElement('div');
 container.className = 'container';
 document.body.append(container);
